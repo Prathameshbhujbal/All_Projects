@@ -1,0 +1,21 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+
+nav{
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 2px solid #FF4500;
+    padding: 20px 0 ;
+    font-size: 50px;
+    margin-left: calc(10%/7);
+    width: 96%;
+    text-shadow: 2px 2px 2px gold ;
+}
+img{
+    width: 30%;
+    /* height: 30%; */
+    margin: calc(10%/7);
+}
+
